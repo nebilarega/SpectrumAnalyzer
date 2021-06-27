@@ -8,3 +8,6 @@
 
 ### This project is done using Qt framework and C++. The project was motivated by a simple project done here, https://github.com/orhun/rtl_map.
 ### This project adds the functionality of spectrogram. It also uses multithreading to combat the blocking code found in the rtlsdr library.
+
+![alt text](https://github.com/nebilarega/SpectrumAnalyzer/blob/main/spectrum.jpg?raw=true)
+
